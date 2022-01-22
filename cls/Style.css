@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: darkmagenta;
+}
+section{
+    margin: 50px;
+}
+.my-container{
+    background-color: rgb(219, 163, 163);
+}
+.my-container h1{
+    padding: 20px;
+    text-align: center;
+}
+.my-row{
+    display: flex;
+}
+.my-col-4{
+    background-color: brown;
+    width: 33.33%;
+    padding: 15px;
+}
+.my-col-4 h2{
+    text-align: center;
+}
+.my-col-4 p{
+    margin-top: 20px;
+}
+.c1{
+    background-color: burlywood;
+    text-align: right;
+}
+.c2{
+    background-color: chocolate;
+    text-align: justify;
+}
+.c3{
+    background-color: darkgreen;
+    text-align: left;
+}
